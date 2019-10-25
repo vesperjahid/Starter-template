@@ -1,12 +1,12 @@
-#This is web developer starter template
+# Web developer starter template
 
-###Here contents is:
+#### Using components:
 
-*bootstrap 4.1.3
-*fontawesome 5
-*jquery 4.3.1
+* bootstrap 4.1.3
+* fontawesome 5
+* jquery 4.3.1
 
-Happy coding :-)
+###### Happy coding :-)
 
-###[Facebook](https://www.facebook.com/vesper.jahid)
-###[Linkedin](https://www.linkedin/in/jahidul-islam-41ba4b186)
+### [Facebook - Vesper](https://www.facebook.com/vesper.jahid)
+### [Linkedin - vesper](https://www.linkedin/in/jahidul-islam-41ba4b186)
